@@ -1,0 +1,1 @@
+{"name":"Local: q1","url":"e:\\GitProjects\\ICPC\\q1.cpp","tests":[{"id":1792842783741,"input":"1 7 9 2 6 -1 9 -1 -1 5 11 5","output":"22"},{"id":1792842792046,"input":"1 2 3 4 5 6 7","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\GitProjects\\ICPC\\q1.cpp","group":"local","local":true}
